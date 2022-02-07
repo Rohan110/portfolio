@@ -8,7 +8,7 @@
 }
 
 section {
-    padding: 100px 200px;
+    padding: 60px 200px;
 }
 
 .main {
@@ -167,7 +167,7 @@ body {
     color: #3a6cf4;
     font-size: 2.2em;
     font-weight: 800;
-    margin-bottom: 60px;
+    margin-bottom: 50px;
 }
 
 .section-title::before {
@@ -375,7 +375,7 @@ body {
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .work .content .card {
@@ -411,7 +411,7 @@ body {
     justify-content: center;
     flex-wrap: wrap;
     flex-direction: column;
-    margin-top: 20px;
+    margin-top: -10px;
 }
 
 .contact .content .row {
